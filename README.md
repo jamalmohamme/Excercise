@@ -41,7 +41,7 @@ Page Object Model can be only done by using Selenium. And for selenium I have to
 
 Approach 2  - Built with JAVA,PageObjectModel(mock design),Maven,Cucumber -
  
-However, if this was suppose to be done in only Java it would be just few basic Java code while using the same design pattern and my assumption is that would be too generic and easy. But still I am adding the result which I got from just Java without Selenium.
+However, if this was suppose to be done in only Java it would be just few basic Java code while using the same design pattern and my assumption is that would be too generic and easy.
 
 
 Authors:
